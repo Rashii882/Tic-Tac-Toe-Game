@@ -15,5 +15,3 @@ A simple *Tic Tac Toe* game built using *HTML, CSS, and JavaScript*. Playable in
 2. Player 1 uses X and Player 2 uses O.
 3. Take turns clicking on the boxes.
 4. First to get 3 in a row (horizontal, vertical, or diagonal) wins!
-
-## 📁 Project Structure
